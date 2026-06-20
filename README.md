@@ -102,6 +102,14 @@ The project will be extended towards:
 - Causal Machine Learning
 - Trustworthy AI based failure diagnosis
 
+## Future Extension
+
+This project will be extended into an industrial failure analysis framework using Explainable AI and Causal Machine Learning approaches.
+
+## Future work:
+Industrial Failure Analysis using Explainable and Causal AI
+[repository link]
+
 
 ## Author
 
