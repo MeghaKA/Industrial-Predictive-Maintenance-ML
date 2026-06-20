@@ -86,7 +86,7 @@ This project originated from a collaborative internship project at Infotact Solu
 
 Original team repository:
 
-(Add team repository link)
+https://github.com/tamil1208/INFOTACT-TECHNICAL-INTERNSHIP-PROGRAM
 
 The original repository contains contributions from multiple team members.
 
