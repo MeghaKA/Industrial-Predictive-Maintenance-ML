@@ -111,7 +111,7 @@ This project will be extended into an industrial failure analysis framework usin
 
 ## Future work:
 Industrial Failure Analysis using Explainable and Causal AI
-[repository link]
+https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
 
 
 ## Author
